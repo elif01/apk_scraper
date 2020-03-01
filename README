@@ -1,0 +1,28 @@
+APKPure is a leading choice for free Android apps. 
+Selenium is used to automate browser processes 
+
+
+
+Dependencies
+------------
+Selenium
+  pip install selenium
+chromedriver
+  https://sites.google.com/a/chromium.org/chromedriver/downloads
+geckodriver
+
+
+Instructions
+------------
+once you have chromedriver installed, make sure to add it to PATH.
+run scraper.py and watch the apk files download!
+
+
+TODO:
+-----
+1) This process can be browser agnostic!
+2) Accept a query from the user and download all apps that match a certain criteria
+
+References
+----------
+https://www.selenium.dev/documentation/en/
